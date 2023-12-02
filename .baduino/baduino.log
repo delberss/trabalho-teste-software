@@ -1,0 +1,204 @@
+[DEBUG] 27-11-2023 14:01:54 TestsRunner:28 - Loading classes
+[DEBUG] 27-11-2023 14:01:54 TestsRunner:42 - Finished loading classes
+[DEBUG] 27-11-2023 14:01:54 TestsRunner:59 - Finished loading test classes
+[DEBUG] 27-11-2023 14:01:54 TestsRunner:60 - Testing with JUnit
+[INFO ] 27-11-2023 14:01:54 TestsRunner:64 - Executed 18 tests in 0,021 seconds. 0 tests failed.
+[INFO ] 27-11-2023 14:01:54 TestsRunner:67 - All tests passed.
+[DEBUG] 27-11-2023 14:16:47 TestsRunner:28 - Loading classes
+[DEBUG] 27-11-2023 14:16:47 TestsRunner:42 - Finished loading classes
+[DEBUG] 27-11-2023 14:16:47 TestsRunner:59 - Finished loading test classes
+[DEBUG] 27-11-2023 14:16:47 TestsRunner:60 - Testing with JUnit
+[INFO ] 27-11-2023 14:16:47 TestsRunner:64 - Executed 13 tests in 0,007 seconds. 0 tests failed.
+[INFO ] 27-11-2023 14:16:47 TestsRunner:67 - All tests passed.
+[DEBUG] 27-11-2023 14:43:48 TestsRunner:28 - Loading classes
+[DEBUG] 27-11-2023 14:43:48 TestsRunner:42 - Finished loading classes
+[DEBUG] 27-11-2023 14:43:48 TestsRunner:59 - Finished loading test classes
+[DEBUG] 27-11-2023 14:43:48 TestsRunner:60 - Testing with JUnit
+[INFO ] 27-11-2023 14:43:48 TestsRunner:64 - Executed 13 tests in 0,014 seconds. 0 tests failed.
+[INFO ] 27-11-2023 14:43:48 TestsRunner:67 - All tests passed.
+[DEBUG] 27-11-2023 14:56:18 TestsRunner:28 - Loading classes
+[DEBUG] 27-11-2023 14:56:18 TestsRunner:42 - Finished loading classes
+[DEBUG] 27-11-2023 14:56:18 TestsRunner:59 - Finished loading test classes
+[DEBUG] 27-11-2023 14:56:18 TestsRunner:60 - Testing with JUnit
+[INFO ] 27-11-2023 14:56:18 TestsRunner:64 - Executed 13 tests in 0,011 seconds. 0 tests failed.
+[INFO ] 27-11-2023 14:56:18 TestsRunner:67 - All tests passed.
+[DEBUG] 27-11-2023 14:56:53 TestsRunner:28 - Loading classes
+[DEBUG] 27-11-2023 14:56:53 TestsRunner:42 - Finished loading classes
+[DEBUG] 27-11-2023 14:56:53 TestsRunner:59 - Finished loading test classes
+[DEBUG] 27-11-2023 14:56:53 TestsRunner:60 - Testing with JUnit
+[INFO ] 27-11-2023 14:56:53 TestsRunner:64 - Executed 13 tests in 0,011 seconds. 0 tests failed.
+[INFO ] 27-11-2023 14:56:53 TestsRunner:67 - All tests passed.
+[DEBUG] 27-11-2023 14:58:33 TestsRunner:28 - Loading classes
+[DEBUG] 27-11-2023 14:58:34 TestsRunner:42 - Finished loading classes
+[DEBUG] 27-11-2023 14:58:34 TestsRunner:59 - Finished loading test classes
+[DEBUG] 27-11-2023 14:58:34 TestsRunner:60 - Testing with JUnit
+[INFO ] 27-11-2023 14:58:34 TestsRunner:64 - Executed 13 tests in 0,007 seconds. 0 tests failed.
+[INFO ] 27-11-2023 14:58:34 TestsRunner:67 - All tests passed.
+[DEBUG] 27-11-2023 14:58:47 TestsRunner:28 - Loading classes
+[DEBUG] 27-11-2023 14:58:47 TestsRunner:42 - Finished loading classes
+[DEBUG] 27-11-2023 14:58:47 TestsRunner:59 - Finished loading test classes
+[DEBUG] 27-11-2023 14:58:47 TestsRunner:60 - Testing with JUnit
+[INFO ] 27-11-2023 14:58:47 TestsRunner:64 - Executed 13 tests in 0,008 seconds. 0 tests failed.
+[INFO ] 27-11-2023 14:58:47 TestsRunner:67 - All tests passed.
+[DEBUG] 27-11-2023 14:59:13 TestsRunner:28 - Loading classes
+[DEBUG] 27-11-2023 14:59:13 TestsRunner:42 - Finished loading classes
+[DEBUG] 27-11-2023 14:59:13 TestsRunner:59 - Finished loading test classes
+[DEBUG] 27-11-2023 14:59:13 TestsRunner:60 - Testing with JUnit
+[INFO ] 27-11-2023 14:59:13 TestsRunner:64 - Executed 13 tests in 0,008 seconds. 0 tests failed.
+[INFO ] 27-11-2023 14:59:13 TestsRunner:67 - All tests passed.
+[DEBUG] 27-11-2023 15:00:38 TestsRunner:28 - Loading classes
+[DEBUG] 27-11-2023 15:00:38 TestsRunner:42 - Finished loading classes
+[DEBUG] 27-11-2023 15:00:38 TestsRunner:59 - Finished loading test classes
+[DEBUG] 27-11-2023 15:00:38 TestsRunner:60 - Testing with JUnit
+[INFO ] 27-11-2023 15:00:38 TestsRunner:64 - Executed 13 tests in 0,006 seconds. 0 tests failed.
+[INFO ] 27-11-2023 15:00:38 TestsRunner:67 - All tests passed.
+[DEBUG] 27-11-2023 15:01:29 TestsRunner:28 - Loading classes
+[DEBUG] 27-11-2023 15:01:29 TestsRunner:42 - Finished loading classes
+[DEBUG] 27-11-2023 15:01:29 TestsRunner:59 - Finished loading test classes
+[DEBUG] 27-11-2023 15:01:29 TestsRunner:60 - Testing with JUnit
+[INFO ] 27-11-2023 15:01:29 TestsRunner:64 - Executed 13 tests in 0,011 seconds. 0 tests failed.
+[INFO ] 27-11-2023 15:01:29 TestsRunner:67 - All tests passed.
+[DEBUG] 27-11-2023 15:11:31 TestsRunner:28 - Loading classes
+[DEBUG] 27-11-2023 15:11:32 TestsRunner:42 - Finished loading classes
+[DEBUG] 27-11-2023 15:11:32 TestsRunner:59 - Finished loading test classes
+[DEBUG] 27-11-2023 15:11:32 TestsRunner:60 - Testing with JUnit
+[INFO ] 27-11-2023 15:11:32 TestsRunner:64 - Executed 13 tests in 0,008 seconds. 0 tests failed.
+[INFO ] 27-11-2023 15:11:32 TestsRunner:67 - All tests passed.
+[DEBUG] 27-11-2023 15:12:13 TestsRunner:28 - Loading classes
+[DEBUG] 27-11-2023 15:12:13 TestsRunner:42 - Finished loading classes
+[DEBUG] 27-11-2023 15:12:13 TestsRunner:59 - Finished loading test classes
+[DEBUG] 27-11-2023 15:12:13 TestsRunner:60 - Testing with JUnit
+[INFO ] 27-11-2023 15:12:13 TestsRunner:64 - Executed 13 tests in 0,008 seconds. 0 tests failed.
+[INFO ] 27-11-2023 15:12:13 TestsRunner:67 - All tests passed.
+[DEBUG] 27-11-2023 15:13:27 TestsRunner:28 - Loading classes
+[DEBUG] 27-11-2023 15:13:28 TestsRunner:42 - Finished loading classes
+[DEBUG] 27-11-2023 15:13:28 TestsRunner:59 - Finished loading test classes
+[DEBUG] 27-11-2023 15:13:28 TestsRunner:60 - Testing with JUnit
+[INFO ] 27-11-2023 15:13:28 TestsRunner:64 - Executed 13 tests in 0,007 seconds. 0 tests failed.
+[INFO ] 27-11-2023 15:13:28 TestsRunner:67 - All tests passed.
+[DEBUG] 27-11-2023 15:14:22 TestsRunner:28 - Loading classes
+[DEBUG] 27-11-2023 15:14:23 TestsRunner:42 - Finished loading classes
+[DEBUG] 27-11-2023 15:14:23 TestsRunner:59 - Finished loading test classes
+[DEBUG] 27-11-2023 15:14:23 TestsRunner:60 - Testing with JUnit
+[INFO ] 27-11-2023 15:14:23 TestsRunner:64 - Executed 13 tests in 0,009 seconds. 0 tests failed.
+[INFO ] 27-11-2023 15:14:23 TestsRunner:67 - All tests passed.
+[DEBUG] 27-11-2023 15:15:25 TestsRunner:28 - Loading classes
+[DEBUG] 27-11-2023 15:15:26 TestsRunner:42 - Finished loading classes
+[DEBUG] 27-11-2023 15:15:26 TestsRunner:59 - Finished loading test classes
+[DEBUG] 27-11-2023 15:15:26 TestsRunner:60 - Testing with JUnit
+[INFO ] 27-11-2023 15:15:26 TestsRunner:64 - Executed 13 tests in 0,009 seconds. 0 tests failed.
+[INFO ] 27-11-2023 15:15:26 TestsRunner:67 - All tests passed.
+[DEBUG] 27-11-2023 15:16:58 TestsRunner:28 - Loading classes
+[DEBUG] 27-11-2023 15:16:59 TestsRunner:42 - Finished loading classes
+[DEBUG] 27-11-2023 15:16:59 TestsRunner:59 - Finished loading test classes
+[DEBUG] 27-11-2023 15:16:59 TestsRunner:60 - Testing with JUnit
+[INFO ] 27-11-2023 15:16:59 TestsRunner:64 - Executed 18 tests in 0,012 seconds. 0 tests failed.
+[INFO ] 27-11-2023 15:16:59 TestsRunner:67 - All tests passed.
+[DEBUG] 27-11-2023 15:19:21 TestsRunner:28 - Loading classes
+[DEBUG] 27-11-2023 15:19:21 TestsRunner:42 - Finished loading classes
+[DEBUG] 27-11-2023 15:19:21 TestsRunner:59 - Finished loading test classes
+[DEBUG] 27-11-2023 15:19:21 TestsRunner:60 - Testing with JUnit
+[INFO ] 27-11-2023 15:19:21 TestsRunner:64 - Executed 13 tests in 0,007 seconds. 0 tests failed.
+[INFO ] 27-11-2023 15:19:21 TestsRunner:67 - All tests passed.
+[DEBUG] 27-11-2023 15:20:05 TestsRunner:28 - Loading classes
+[DEBUG] 27-11-2023 15:20:05 TestsRunner:42 - Finished loading classes
+[DEBUG] 27-11-2023 15:20:05 TestsRunner:59 - Finished loading test classes
+[DEBUG] 27-11-2023 15:20:05 TestsRunner:60 - Testing with JUnit
+[INFO ] 27-11-2023 15:20:05 TestsRunner:64 - Executed 13 tests in 0,006 seconds. 0 tests failed.
+[INFO ] 27-11-2023 15:20:05 TestsRunner:67 - All tests passed.
+[DEBUG] 27-11-2023 15:20:46 TestsRunner:28 - Loading classes
+[DEBUG] 27-11-2023 15:20:46 TestsRunner:42 - Finished loading classes
+[DEBUG] 27-11-2023 15:20:46 TestsRunner:59 - Finished loading test classes
+[DEBUG] 27-11-2023 15:20:46 TestsRunner:60 - Testing with JUnit
+[INFO ] 27-11-2023 15:20:46 TestsRunner:64 - Executed 13 tests in 0,009 seconds. 0 tests failed.
+[INFO ] 27-11-2023 15:20:46 TestsRunner:67 - All tests passed.
+[DEBUG] 27-11-2023 15:23:49 TestsRunner:28 - Loading classes
+[DEBUG] 27-11-2023 15:23:49 TestsRunner:42 - Finished loading classes
+[DEBUG] 27-11-2023 15:23:49 TestsRunner:59 - Finished loading test classes
+[DEBUG] 27-11-2023 15:23:49 TestsRunner:60 - Testing with JUnit
+[INFO ] 27-11-2023 15:23:49 TestsRunner:64 - Executed 13 tests in 0,010 seconds. 0 tests failed.
+[INFO ] 27-11-2023 15:23:49 TestsRunner:67 - All tests passed.
+[DEBUG] 27-11-2023 19:08:20 TestsRunner:28 - Loading classes
+[DEBUG] 27-11-2023 19:08:20 TestsRunner:42 - Finished loading classes
+[DEBUG] 27-11-2023 19:08:20 TestsRunner:59 - Finished loading test classes
+[DEBUG] 27-11-2023 19:08:20 TestsRunner:60 - Testing with JUnit
+[INFO ] 27-11-2023 19:08:20 TestsRunner:64 - Executed 13 tests in 0,008 seconds. 0 tests failed.
+[INFO ] 27-11-2023 19:08:20 TestsRunner:67 - All tests passed.
+[DEBUG] 27-11-2023 19:09:01 TestsRunner:28 - Loading classes
+[DEBUG] 27-11-2023 19:09:02 TestsRunner:42 - Finished loading classes
+[DEBUG] 27-11-2023 19:09:02 TestsRunner:59 - Finished loading test classes
+[DEBUG] 27-11-2023 19:09:02 TestsRunner:60 - Testing with JUnit
+[INFO ] 27-11-2023 19:09:02 TestsRunner:64 - Executed 13 tests in 0,022 seconds. 0 tests failed.
+[INFO ] 27-11-2023 19:09:02 TestsRunner:67 - All tests passed.
+[DEBUG] 27-11-2023 19:22:03 TestsRunner:28 - Loading classes
+[DEBUG] 27-11-2023 19:22:04 TestsRunner:42 - Finished loading classes
+[DEBUG] 27-11-2023 19:22:04 TestsRunner:59 - Finished loading test classes
+[DEBUG] 27-11-2023 19:22:04 TestsRunner:60 - Testing with JUnit
+[INFO ] 27-11-2023 19:22:04 TestsRunner:64 - Executed 13 tests in 0,009 seconds. 0 tests failed.
+[INFO ] 27-11-2023 19:22:04 TestsRunner:67 - All tests passed.
+[DEBUG] 27-11-2023 20:03:46 TestsRunner:28 - Loading classes
+[DEBUG] 27-11-2023 20:03:46 TestsRunner:42 - Finished loading classes
+[DEBUG] 27-11-2023 20:03:46 TestsRunner:59 - Finished loading test classes
+[DEBUG] 27-11-2023 20:03:46 TestsRunner:60 - Testing with JUnit
+[INFO ] 27-11-2023 20:03:46 TestsRunner:64 - Executed 13 tests in 0,010 seconds. 0 tests failed.
+[INFO ] 27-11-2023 20:03:46 TestsRunner:67 - All tests passed.
+[DEBUG] 29-11-2023 18:42:40 TestsRunner:28 - Loading classes
+[DEBUG] 29-11-2023 18:42:40 TestsRunner:42 - Finished loading classes
+[DEBUG] 29-11-2023 18:42:40 TestsRunner:59 - Finished loading test classes
+[DEBUG] 29-11-2023 18:42:40 TestsRunner:60 - Testing with JUnit
+[INFO ] 29-11-2023 18:42:40 TestsRunner:64 - Executed 18 tests in 0,016 seconds. 0 tests failed.
+[INFO ] 29-11-2023 18:42:40 TestsRunner:67 - All tests passed.
+[DEBUG] 29-11-2023 23:21:51 TestsRunner:28 - Loading classes
+[DEBUG] 29-11-2023 23:21:51 TestsRunner:42 - Finished loading classes
+[DEBUG] 29-11-2023 23:21:51 TestsRunner:59 - Finished loading test classes
+[DEBUG] 29-11-2023 23:21:51 TestsRunner:60 - Testing with JUnit
+[INFO ] 29-11-2023 23:21:51 TestsRunner:64 - Executed 18 tests in 0,029 seconds. 0 tests failed.
+[INFO ] 29-11-2023 23:21:51 TestsRunner:67 - All tests passed.
+[DEBUG] 01-12-2023 13:53:36 TestsRunner:28 - Loading classes
+[DEBUG] 01-12-2023 13:53:36 TestsRunner:42 - Finished loading classes
+[DEBUG] 01-12-2023 13:53:36 TestsRunner:59 - Finished loading test classes
+[DEBUG] 01-12-2023 13:53:36 TestsRunner:60 - Testing with JUnit
+[INFO ] 01-12-2023 13:53:36 TestsRunner:64 - Executed 13 tests in 0,008 seconds. 0 tests failed.
+[INFO ] 01-12-2023 13:53:36 TestsRunner:67 - All tests passed.
+[DEBUG] 01-12-2023 13:53:50 TestsRunner:28 - Loading classes
+[DEBUG] 01-12-2023 13:53:50 TestsRunner:42 - Finished loading classes
+[DEBUG] 01-12-2023 13:53:50 TestsRunner:59 - Finished loading test classes
+[DEBUG] 01-12-2023 13:53:50 TestsRunner:60 - Testing with JUnit
+[INFO ] 01-12-2023 13:53:50 TestsRunner:64 - Executed 13 tests in 0,013 seconds. 0 tests failed.
+[INFO ] 01-12-2023 13:53:50 TestsRunner:67 - All tests passed.
+[DEBUG] 01-12-2023 13:59:21 TestsRunner:28 - Loading classes
+[DEBUG] 01-12-2023 13:59:22 TestsRunner:42 - Finished loading classes
+[DEBUG] 01-12-2023 13:59:22 TestsRunner:59 - Finished loading test classes
+[DEBUG] 01-12-2023 13:59:22 TestsRunner:60 - Testing with JUnit
+[INFO ] 01-12-2023 13:59:22 TestsRunner:64 - Executed 18 tests in 0,007 seconds. 0 tests failed.
+[INFO ] 01-12-2023 13:59:22 TestsRunner:67 - All tests passed.
+[DEBUG] 01-12-2023 14:01:59 TestsRunner:28 - Loading classes
+[DEBUG] 01-12-2023 14:01:59 TestsRunner:42 - Finished loading classes
+[DEBUG] 01-12-2023 14:01:59 TestsRunner:59 - Finished loading test classes
+[DEBUG] 01-12-2023 14:01:59 TestsRunner:60 - Testing with JUnit
+[INFO ] 01-12-2023 14:01:59 TestsRunner:64 - Executed 13 tests in 0,006 seconds. 0 tests failed.
+[INFO ] 01-12-2023 14:01:59 TestsRunner:67 - All tests passed.
+[DEBUG] 01-12-2023 14:04:30 TestsRunner:28 - Loading classes
+[DEBUG] 01-12-2023 14:04:30 TestsRunner:42 - Finished loading classes
+[DEBUG] 01-12-2023 14:04:30 TestsRunner:59 - Finished loading test classes
+[DEBUG] 01-12-2023 14:04:30 TestsRunner:60 - Testing with JUnit
+[INFO ] 01-12-2023 14:04:30 TestsRunner:64 - Executed 18 tests in 0,009 seconds. 0 tests failed.
+[INFO ] 01-12-2023 14:04:30 TestsRunner:67 - All tests passed.
+[DEBUG] 01-12-2023 14:41:07 TestsRunner:28 - Loading classes
+[DEBUG] 01-12-2023 14:41:07 TestsRunner:42 - Finished loading classes
+[DEBUG] 01-12-2023 14:41:07 TestsRunner:59 - Finished loading test classes
+[DEBUG] 01-12-2023 14:41:07 TestsRunner:60 - Testing with JUnit
+[INFO ] 01-12-2023 14:41:07 TestsRunner:64 - Executed 26 tests in 0,011 seconds. 0 tests failed.
+[INFO ] 01-12-2023 14:41:07 TestsRunner:67 - All tests passed.
+[DEBUG] 01-12-2023 23:08:55 TestsRunner:28 - Loading classes
+[DEBUG] 01-12-2023 23:08:56 TestsRunner:42 - Finished loading classes
+[ERROR] 01-12-2023 23:08:56 TestsRunner:53 - Unable to find class file for test org.teste.PeixeATest
+[ERROR] 01-12-2023 23:08:56 TestsRunner:53 - Unable to find class file for test org.teste.PeixeBTest
+[DEBUG] 01-12-2023 23:08:56 TestsRunner:59 - Finished loading test classes
+[DEBUG] 01-12-2023 23:08:56 TestsRunner:60 - Testing with JUnit
+[DEBUG] 01-12-2023 23:09:14 TestsRunner:28 - Loading classes
+[DEBUG] 01-12-2023 23:09:14 TestsRunner:42 - Finished loading classes
+[DEBUG] 01-12-2023 23:09:14 TestsRunner:59 - Finished loading test classes
+[DEBUG] 01-12-2023 23:09:14 TestsRunner:60 - Testing with JUnit
+[INFO ] 01-12-2023 23:09:14 TestsRunner:64 - Executed 26 tests in 0,015 seconds. 0 tests failed.
+[INFO ] 01-12-2023 23:09:14 TestsRunner:67 - All tests passed.

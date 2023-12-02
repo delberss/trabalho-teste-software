@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model name="TrabalhoJogoAquario">
+    <baduino>C:\Users\delbe\workspace\TrabalhoJogoAquario\.baduino</baduino>
+    <classes>
+        <class>org.example.Aquario</class>
+        <class>org.example.Jogo</class>
+        <class>org.example.Peixe</class>
+        <class>org.example.PeixeA</class>
+        <class>org.example.PeixeB</class>
+        <class>org.teste.AquarioTest</class>
+    </classes>
+    <classes-path>C:\Users\delbe\workspace\TrabalhoJogoAquario\bin</classes-path>
+    <coverage-bin>C:\Users\delbe\workspace\TrabalhoJogoAquario\.baduino\coverage.ser</coverage-bin>
+    <coverage-xml>C:\Users\delbe\workspace\TrabalhoJogoAquario\.baduino\coverage.xml</coverage-xml>
+    <location>C:\Users\delbe\workspace\TrabalhoJogoAquario</location>
+    <path>C:\Users\delbe\workspace\TrabalhoJogoAquario\.baduino\TrabalhoJogoAquario.xml</path>
+</model>
